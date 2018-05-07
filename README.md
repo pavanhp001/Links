@@ -98,3 +98,9 @@ http://www.freeformatter.com/html-formatter.html#ad-output <br>
 http://jsbin.com/?html,output <br>
 http://www.utilities-online.info/xmltojson/#.Vd7Qv5d8v3U <br>
 https://jsonlint.com/ <br>
+
+Linux:
+==========
+https://www.fastwebhost.in/blog/linux-tutorial/
+https://www.fastwebhost.in/blog/how-to-use-sed-command-in-unix-with-examples/
+
