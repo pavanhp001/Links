@@ -11,6 +11,11 @@ All:
 ===============
 https://github.com/thombergs/tutorials
 
+algorithms:
+============
+
+https://github.com/thombergs/tutorials/tree/master/algorithms
+
 Java 8:
 ===========
 https://github.com/eugenp/tutorials/tree/master/core-java-8 <br>
