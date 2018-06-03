@@ -24,6 +24,15 @@ https://github.com/hacking-code/java8-guides-tutorials <br>
 https://github.com/winterbe/java8-tutorial <br>
 https://github.com/eugenp/tutorials/tree/master/core-java-8 <br>
 
+Spring Boot:
+=================
+https://spring.io/tools/sts/all<br>
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/<br>
+https://spring.io/<br>
+http://cloud.spring.io/spring-cloud-static/Edgware.SR3/single/spring-cloud.html<br>
+
+https://github.com/spring-projects/spring-framework<br>
+
 JPA:
 =====
 http://www.thejavageek.com/jpa-tutorials/ <br>
