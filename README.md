@@ -33,6 +33,11 @@ http://cloud.spring.io/spring-cloud-static/Edgware.SR3/single/spring-cloud.html<
 
 https://github.com/spring-projects/spring-framework<br>
 
+microservice:
+=============
+https://github.com/vaquarkhan
+https://github.com/vaquarkhan/microservice-poc
+
 JPA:
 =====
 http://www.thejavageek.com/jpa-tutorials/ <br>
