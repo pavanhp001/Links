@@ -33,6 +33,10 @@ http://cloud.spring.io/spring-cloud-static/Edgware.SR3/single/spring-cloud.html<
 
 https://github.com/spring-projects/spring-framework<br>
 
+spring mvc Doc
+===============
+https://docs.spring.io/spring/docs/5.1.0.BUILD-SNAPSHOT/spring-framework-reference/web.html#mvc-ann-requestmapping-suffix-pattern-match
+
 microservice:
 =============
 https://github.com/vaquarkhan
