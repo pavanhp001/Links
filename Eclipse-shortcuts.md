@@ -61,9 +61,10 @@ Debugging:
 -Smart step intoselection.
 -Step filter.
 -Grouping break points.
--Print points.:
+
+Print points.:
 ===========
- Print points does not stop ur execution it prints the sysout on console.
+ Print points does not stop ur execution, It prints the sysout on console.
  It is usefull when u debug race condition or threads.
  line breakpoint - check conditional check Suspent when true and write sysop and always return false at end of line.
  
