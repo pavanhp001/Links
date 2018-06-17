@@ -34,9 +34,9 @@ Show annotation for author of particular line of code or modified code.<br>
 -and then reght click on  left roler select Revision - show Id(have multiple options).<br>
 -hover on particular annotation u can see commiting of that code details.<br>
 
-***
 Block selection mode:
-Alt+shift+a and select the ex private or particular code and modify it.(default behaviour)<br>
+=====================
+Alt+shift+a and select the example: private or particular code and modify it.(default behaviour)<br>
 
 override default behaviour :
 ===================
