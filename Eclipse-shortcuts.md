@@ -83,3 +83,11 @@ Print points.:
  To know UI plug in Implimentation in eclipse:
  ======================
  alt+shift+f1 opens (Plug-in selection spy) then u can see all the plugin related to that UI:<br>
+ 
+ shift + Alt + up/down to select enclosed element block<br>
+ ctrl+shift up/down to next previ members<br>
+ ctrl+shift +p to matched bracket<br>
+ ctrl+Q goto last edited location.<br>
+ ctrl+pageUp/pageDown to sequentiolly move to next editor.<br>
+ ctrl+e <br>
+ 
