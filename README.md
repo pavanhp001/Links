@@ -93,6 +93,12 @@ https://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511 <b
 http://busypeoples.github.io/post/thinking-in-components-angular-js/ <br>
 https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md <br>
 
+Angular:
+===============
+Added Authentication for angular application urls:
+http://jasonwatmore.com/post/2018/05/16/angular-6-user-registration-and-login-example-tutorial <br>
+https://github.com/cornflourblue/angular-6-registration-login-example-cli <br>
+
 JavaScript:
 ==============
 https://www.thatjsdude.com/jsConcepts/concepts/array.html
