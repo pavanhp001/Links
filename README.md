@@ -95,10 +95,13 @@ https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md <br>
 
 Angular:
 ===============
-Added Authentication for angular application urls:<br>
+Added Authentication for angular application urls: <br>
 http://jasonwatmore.com/post/2018/05/16/angular-6-user-registration-and-login-example-tutorial <br>
+
 https://github.com/cornflourblue/angular-6-registration-login-example-cli <br>
+
 http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management <br>
+
 Angular & SpringBoot Integration<br>
 ==============================
 https://github.com/swathisprasad/spring-boot-angular6-maven-project<br>
