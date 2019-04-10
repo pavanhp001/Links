@@ -99,6 +99,9 @@ Added Authentication for angular application urls:<br>
 http://jasonwatmore.com/post/2018/05/16/angular-6-user-registration-and-login-example-tutorial <br>
 https://github.com/cornflourblue/angular-6-registration-login-example-cli <br>
 http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management <br>
+Angular & SpringBoot Integration<br>
+==============================
+https://github.com/swathisprasad/spring-boot-angular6-maven-project<br>
 
 JavaScript:
 ==============
@@ -113,6 +116,7 @@ Design:
 https://www.slideshare.net/aki_string/school-management-system-21413550 <br>
 http://javarevisited.blogspot.in/2012/06/20-design-pattern-and-software-design.html#axzz59FcPCw6h <br>
 http://www.headfirstlabs.com/books/hfdp/ <br>
+https://github.com/swathisprasad/java-design-patterns <br>
 
 Spring boot:
 ===============
