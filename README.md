@@ -102,6 +102,10 @@ https://github.com/cornflourblue/angular-6-registration-login-example-cli <br>
 
 http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management <br>
 
+How to increase Angular performanse:
+==================================
+https://github.com/mgechev/angular-performance-checklist#lazy-loading-of-resources <br>
+
 Angular & SpringBoot Integration<br>
 ==============================
 https://github.com/swathisprasad/spring-boot-angular6-maven-project<br>
