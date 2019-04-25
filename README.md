@@ -95,19 +95,22 @@ https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md <br>
 
 Angular:
 ===============
-Added Authentication for angular application urls: <br>
+Added Authentication for angular application urls  <br>
 http://jasonwatmore.com/post/2018/05/16/angular-6-user-registration-and-login-example-tutorial <br>
 https://github.com/cornflourblue/angular-6-registration-login-example-cli <br>
 http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management <br>
-https://github.com/KrunalLathiya/Angular5CRUD     Angular CRUD with MEAN Stock in one project.<br>
+https://github.com/KrunalLathiya/Angular5CRUD     Angular CRUD with MEAN Stock in one project. <br>
 https://github.com/only2dhir/angular6-example <br>
-How to increase Angular performanse:
-==================================
-https://github.com/mgechev/angular-performance-checklist#lazy-loading-of-resources <br>
+How to increase Angular performanse <br>
+================================== <br>
+https://github.com/mgechev/angular-performance-checklist#lazy-loading-of-resources  <br>
 
 Angular & SpringBoot Integration<br>
-==============================
-https://github.com/swathisprasad/spring-boot-angular6-maven-project<br>
+============================== <br>
+https://github.com/swathisprasad/spring-boot-angular6-maven-project <br>
+spring-security/angular-spring-boot-jwt-authentication-example-angular-6-spring-security-mysql-full-stack <br>
+===================================================================================================== <br>
+https://grokonez.com/spring-framework/spring-security/angular-spring-boot-jwt-authentication-example-angular-6-spring-security-mysql-full-stack-part-1-overview-and-architecture
 
 JavaScript:
 ==============
