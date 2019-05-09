@@ -109,8 +109,12 @@ Angular & SpringBoot Integration<br>
 ============================== <br>
 https://github.com/swathisprasad/spring-boot-angular6-maven-project <br>
 spring-security/angular-spring-boot-jwt-authentication-example-angular-6-spring-security-mysql-full-stack <br>
-===================================================================================================== <br>
 https://grokonez.com/spring-framework/spring-security/angular-spring-boot-jwt-authentication-example-angular-6-spring-security-mysql-full-stack-part-1-overview-and-architecture
+
+Spring boot thymeleaf + angular 5 togetherness<br>
+================================
+https://stackoverflow.com/questions/49922975/angular-5-together-with-spring-thymeleaf
+
 
 JavaScript:
 ==============
