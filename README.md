@@ -37,6 +37,10 @@ http://cloud.spring.io/spring-cloud-static/Edgware.SR3/single/spring-cloud.html<
 
 https://github.com/spring-projects/spring-framework<br>
 
+Spring Boot & Heruku & postgrees & git Cloud migration
+===============================================
+https://grokonez.com/spring-framework/spring-boot/deployment-spring-boot/heroku-springboot-deployment-example-how-to-deploy-springboot-postgresql-on-heroku-platform-with-heroku-cli<br>
+
 spring mvc Doc
 ===============
 https://docs.spring.io/spring/docs/5.1.0.BUILD-SNAPSHOT/spring-framework-reference/web.html#mvc-ann-requestmapping-suffix-pattern-match
